@@ -1,0 +1,1 @@
+Created CodePilot-AI, a full-stack MERN (MongoDB, Express.js, React, Node.js) application integrating the Google Gemini API for intelligent code analysis. This platform automates code reviews, identifies potential issues, and suggests improvements, enhancing development efficiency through features like syntax highlighting (PrismJs) and API communication (Axios).
